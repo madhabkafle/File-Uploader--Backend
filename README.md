@@ -3,9 +3,12 @@ The File Uploader is a powerful backend project designed to provide users with a
 This project allows users to conveniently upload various file types, including images, videos, and general files. 
 In addition, it offers an image reducer feature that efficiently reduces the size of uploaded images.
 ## Key Features
-# File Upload: Users can easily upload images, videos, and files through a user-friendly interface.
-## Image Reducer: The project includes an image reducer feature that optimizes the file size of uploaded images, resulting in improved storage efficiency.
-### Email Notification: Once a user uploads a file, they receive an automated email notification containing the file upload confirmation and a secure file link.
+# File Upload: 
+Users can easily upload images, videos, and files through a user-friendly interface.
+## Image Reducer: 
+The project includes an image reducer feature that optimizes the file size of uploaded images, resulting in improved storage efficiency.
+### Email Notification:
+Once a user uploads a file, they receive an automated email notification containing the file upload confirmation and a secure file link.
 ### Technologies Used
 # MongoDB: 
 The project utilizes MongoDB for efficient data storage and retrieval.
